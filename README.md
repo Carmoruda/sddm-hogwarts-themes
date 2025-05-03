@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-    <img alt="Github last commit (branch)" src="https://img.shields.io/github/last-commit/carmoruda/hogwarts-dark/master?color=2ea043&labelColor=202328&label=Last Update%3F&style=for-the-badge">
+    <img alt="Github last commit (branch)" src="https://img.shields.io/github/last-commit/carmoruda/hogwarts-dark/master?color=2ea043&labelColor=202328&label=Last%20Update%3F&style=for-the-badge">
     <img alt="Github repo stars" src="https://img.shields.io/github/stars/carmoruda/hogwarts-dark?color=db6d28&labelColor=202328&style=for-the-badge">
     <img alt="Github repo forks" src="https://img.shields.io/github/forks/carmoruda/hogwarts-dark?color=388bfd&labelColor=202328&style=for-the-badge">
     <img alt="Github repo open issues" src="https://img.shields.io/github/issues/carmoruda/hogwarts-dark?color=f85149&labelColor=202328&style=for-the-badge">
